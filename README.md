@@ -10,4 +10,4 @@ https://colab.research.google.com/
 へアクセスし、"uplopad"をクリックして"Colab_Product_recommendation_stadium.ipynb"をアップロードしてください。
 
 ## その他
-Google Colabを参考にしてください。必要に応じて調整が必要です。
+Google Colabを参考にしてください。必要に応じて調整してください。
