@@ -11,3 +11,6 @@ https://colab.research.google.com/
 
 ## その他
 Google Colabを参考にしてください。必要に応じて調整してください。
+
+# 使用データ
+stadium_recommender.zipをダウンロードしてノートブックのガイドに沿って処理してください。
